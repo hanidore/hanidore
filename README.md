@@ -10,7 +10,7 @@
 
 - 📚 BA Education Studies
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently building my portfolio 
 
 - 💬 Ask me about **Azure, Python and Html**
 
